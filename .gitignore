@@ -1,0 +1,22 @@
+# Python virtual environments
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# PyCharm files
+.idea/
+
+# macOS files
+.DS_Store
+
+# Windows files
+thumbs.db
+
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Streamlit cache
+.streamlit/
